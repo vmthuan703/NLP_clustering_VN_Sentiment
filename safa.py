@@ -1,0 +1,1 @@
+print('thuan depj trai nhat vu tru')
