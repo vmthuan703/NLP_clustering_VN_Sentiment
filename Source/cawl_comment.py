@@ -46,7 +46,6 @@ params = {
 
 def comment_parser(json):
     d = dict()
-    d['id'] = json.get(id)
     d['title'] = json.get('title')
     d['content'] = json.get('content')
     d['thank_count'] = json.get('thank_count')
