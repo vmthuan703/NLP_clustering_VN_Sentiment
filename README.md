@@ -14,6 +14,17 @@ Dự án này bao gồm việc thu thập dữ liệu của hơn 10.000 bình lu
   + Xây dựng mô hình phân tích cảm xúc của khách hàng dựa trên các bình luận,
   + Đánh giá hiệu xuất mô hình,
   + Đưa ra phương hướng cải thiện.
+## I. Về dự án:
+- `Data`: Bao gồm những dữ liệu đã thu thập được trong quá trình xây dựng dự án
+- `Images`: Bao gồm ảnh có trong dự án
+- `Model`: Bác mô hình được xuất ra trong quá trình xây dựng dự án
+- `Scource`: Code của dự án, cụ thể:
+   + `Source/cawl_product_id.py`: File này thu thập id của các sản phẩm.
+   + `Source/cawl_comment.py`: Sử dụng id đã thu thập được thu thập dữ liệu feedback của khách hàng.
+   + `Source/a_preprocessing_and_KNN_Sentiment.ipynb`: Từ dữ liệu thi thập được, tiến hành xử lý và huấn luyện mô hình KNN.
+   + `Source/model_Random_Forest_Sentiment.ipynb`: Xử lý và huấn luyện mô hình Random Forest.
+   + `Source/model_LSTM_Sentiment.ipynb`: Xử lý và huấn luyện mô hình LSTM.
+Chi tiết xin mời xem tiếp trong từng file. 
 ## I.Thông tin về tập dữ liệu:
 34808 dòng,
 8 cột bao gồm:
