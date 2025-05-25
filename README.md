@@ -25,7 +25,7 @@ Dự án này bao gồm việc thu thập dữ liệu của hơn 10.000 bình lu
    + `Source/model_Random_Forest_Sentiment.ipynb`: Xử lý và huấn luyện mô hình Random Forest.
    + `Source/model_LSTM_Sentiment.ipynb`: Xử lý và huấn luyện mô hình LSTM.
 Chi tiết xin mời xem tiếp trong từng file. 
-## I.Thông tin về tập dữ liệu:
+## II.Thông tin về tập dữ liệu:
 34808 dòng,
 8 cột bao gồm:
 - title: Tiêu đề comment của khách hàng
@@ -36,7 +36,7 @@ Chi tiết xin mời xem tiếp trong từng file.
 - created_at: Ngày comment
 - customer_name: Tên của khách hàng
 - purchased_at: Ngày mua hàng
-## II.Thư viện sử dụng
+## III.Thư viện sử dụng
 - Pandas
 - Numpy
 - Matplotlib
@@ -49,6 +49,6 @@ Chi tiết xin mời xem tiếp trong từng file.
 - Imblearn
 - Tensorflow
 - Keras
-## III. Tham khảo
+## IV. Tham khảo
 - https://www.youtube.com/watch?v=4ANrdE3FDPw&t=1858s
 - https://github.com/ZeusCoderBE
