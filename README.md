@@ -24,7 +24,7 @@ Dự án này bao gồm việc thu thập dữ liệu của hơn 10.000 bình lu
    + `Source/a_preprocessing_and_KNN_Sentiment.ipynb`: Từ dữ liệu thi thập được, tiến hành xử lý và huấn luyện mô hình KNN.
    + `Source/model_Random_Forest_Sentiment.ipynb`: Xử lý và huấn luyện mô hình Random Forest.
    + `Source/model_LSTM_Sentiment.ipynb`: Xử lý và huấn luyện mô hình LSTM.
-Chi tiết xin mời xem tiếp trong từng file. 
+- Chi tiết xin mời xem tiếp trong từng file. 
 ## II.Thông tin về tập dữ liệu:
 34808 dòng,
 8 cột bao gồm:
