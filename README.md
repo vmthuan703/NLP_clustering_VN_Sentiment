@@ -52,4 +52,3 @@ Chi tiết xin mời xem tiếp trong từng file.
 ## IV. Tham khảo
 - https://www.youtube.com/watch?v=4ANrdE3FDPw&t=1858s
 - https://github.com/ZeusCoderBE
-Vũ Minh Thuận
