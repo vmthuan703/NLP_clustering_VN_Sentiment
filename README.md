@@ -1,4 +1,4 @@
-# Ứng dụng Machine Learning & Deep Learning để xây dựng mô hình phân tích cảm xúc của khách hàng dựa trên các bình luận nhằm xác định và hỗ trợ xây dựng chiến lược kinh doanh
+# NLP: Ứng dụng Machine Learning & Deep Learning để xây dựng mô hình phân tích cảm xúc của khách hàng dựa trên các bình luận nhằm xác định và hỗ trợ xây dựng chiến lược kinh doanh
 Xin chào mọi người, em tên là Thuận, đây là dự án cá nhân được em xây dựng trong khoảng 40h. Dự án này bao gồm việc thu thập dữ liệu feedback của hơn 35.000 khách hàng trong các danh mục về điện thoại & phụ kiện điện thoại trên tiki.vn. Sau đó khám phá dữ liệu và xây dựng mô hình, cụ thể:
 - Thu thập dữ liệu:
   + Trước tiên thu thập id của hơn 600 sản phẩm tại sàn thương mại điện tử Tiki (https://tiki.vn/),
